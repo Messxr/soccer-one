@@ -1,0 +1,6 @@
+framework module Pods_Soccer_One_R4 {
+  umbrella header "Pods-Soccer One R4-umbrella.h"
+
+  export *
+  module * { export * }
+}

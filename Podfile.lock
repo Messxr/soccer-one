@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.2)
+  - UPCarouselFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - UPCarouselFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - UPCarouselFlowLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  UPCarouselFlowLayout: 4c7d2c43a10ebb1597bde502a53699d378341dad
+
+PODFILE CHECKSUM: 67c7b3d3f853861658426b64c8881a940c270fe1
+
+COCOAPODS: 1.9.3
